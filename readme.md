@@ -3,3 +3,5 @@ Gebruik volgende link om het jupyter systeem met de code op te starten...
 
 
 [https://mybinder.org/v2/gh/jsoons/MMMSteelFactoryOR/HEAD?labpath=production_schedule_carlos_palao_MIP_2026.ipynb]
+
+[https://mybinder.org/v2/gh/jsoons/mybinder/HEAD?labpath=2production_schedule_carlos_palao_MIP.ipynb]
